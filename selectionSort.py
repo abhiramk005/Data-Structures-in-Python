@@ -1,5 +1,5 @@
 #In selection sort find the minimum value in the array and then
-#add it to the front(i)
+#add it to the front (i)
 #These shift operations are time consuming so we can also use swap
 
 def selectionSort(arr):
